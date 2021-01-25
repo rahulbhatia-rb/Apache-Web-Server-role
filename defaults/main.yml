@@ -1,0 +1,4 @@
+---
+# defaults file for WebServer
+
+private_ip: 8.8.8.8

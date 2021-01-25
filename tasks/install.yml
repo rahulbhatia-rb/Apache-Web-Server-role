@@ -1,0 +1,5 @@
+- name: "Installing Apache Web Server"
+  package:
+          name: httpd
+          state: present
+

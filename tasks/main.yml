@@ -1,0 +1,9 @@
+---
+# tasks file for WebServer
+
+
+
+- include: install.yml
+- include: configure.yml
+- include: start.yml
+
