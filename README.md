@@ -28,3 +28,5 @@ Author Information
 ------------------
 
 Rahul H Bhatia
+
+![](https://visitor-badge.glitch.me/badge?page_id=rahulbhatia-rb.Apache-Web-Server-role)
